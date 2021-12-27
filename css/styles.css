@@ -4061,6 +4061,7 @@ textarea.form-control-lg {
   font-size: 1.25rem;
   text-decoration: none;
   white-space: nowrap;
+  padding-left: 10rem;
 }
 .navbar-nav {
   display: flex;
@@ -4512,6 +4513,12 @@ textarea.form-control-lg {
 .navbar-dark .navbar-text a:focus {
   color: #fff;
 }
+
+
+#services{
+  background:#2988bc;
+}
+
 
 .card {
   position: relative;
@@ -7708,6 +7715,15 @@ textarea.form-control-lg {
 .text-wrap {
   white-space: normal !important;
 }
+
+.black {
+  color: black;
+}
+
+#skills {
+  background-color:#2988bc;
+}
+
 
 .text-nowrap {
   white-space: nowrap !important;
@@ -11318,17 +11334,27 @@ p {
 
 .page-section {
   padding: 6rem 0;
+  
 }
+
+
+.white-text {
+  color:white;
+}
+
+
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
   margin-top: 0;
   margin-bottom: 1rem;
+  
 }
 .page-section h3.section-subheading, .page-section .section-subheading.h3 {
   font-size: 1rem;
   font-weight: 700;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin-bottom: 4rem;
+  
 }
 
 @media (min-width: 768px) {
