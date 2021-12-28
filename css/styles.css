@@ -7725,6 +7725,27 @@ textarea.form-control-lg {
 }
 
 
+
+.resume-button {
+  padding-left:15px;
+}
+
+.ending-footer {
+  height:150px;
+  margin-top:35px;
+  
+}
+
+.final-button {
+  padding-right:200px;
+}
+
+.copyright {
+  padding-left:150px;
+
+}
+
+
 .text-nowrap {
   white-space: nowrap !important;
 }
