@@ -7725,6 +7725,21 @@ textarea.form-control-lg {
 }
 
 
+.credit {
+  margin-top:4.5rem;
+  
+}
+
+.portfolio {
+  color:#fcbc1d;
+  font-family:'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size:1rem;
+}
+
+.projects{
+  font-size:rem;
+}
+
 
 .resume-button {
   padding-left:15px;
@@ -11358,14 +11373,31 @@ p {
   
 }
 
+.skills {
+  margin-right:0.5rem;
+}
+
+.button {
+  margin-bottom:16px;
+  margin-left:10px;
+}
+
 
 .white-text {
   color:white;
 }
 
+.copyright{
+  font-size:1.07rem;
+}
+
+.description {
+  margin-top:3rem;
+}
+
 
 .page-section h2.section-heading, .page-section .section-heading.h2 {
-  font-size: 2.5rem;
+  font-size: 4rem;
   margin-top: 0;
   margin-bottom: 1rem;
   
@@ -11484,7 +11516,14 @@ header.masthead {
   background-size: cover;
 }
 
+.content-section{
+  height:100vh;
+}
 
+
+.button1 {
+  border-radius:50%;
+}
 
 .name {
   font-size:5rem;
