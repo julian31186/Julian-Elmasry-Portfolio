@@ -3507,6 +3507,8 @@ textarea.form-control-lg {
   border-radius: 0.2rem;
 }
 
+
+
 .fade {
   transition: opacity 0.15s linear;
 }
@@ -6637,6 +6639,21 @@ textarea.form-control-lg {
   white-space: nowrap !important;
   border: 0 !important;
 }
+
+.text-faded {
+  color:rgba(255, 255, 255, 0.7);
+}
+
+.skills-text {
+  font-family:'Source Sans Pro';
+}
+
+.fa-java {
+  color:white;
+}
+
+
+
 
 .stretched-link::after {
   position: absolute;
