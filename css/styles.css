@@ -6654,6 +6654,23 @@ textarea.form-control-lg {
 
 
 
+.see-more{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  margin-top:5rem;
+}
+
+.visit{
+  margin-left:35rem;
+  margin-top:2rem;
+}
+
+
+
+
+
 
 .stretched-link::after {
   position: absolute;
