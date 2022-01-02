@@ -6652,6 +6652,24 @@ textarea.form-control-lg {
   color:white;
 }
 
+.lead{
+  font-size:1.25rem;
+  font-weight:300;
+  font-family:'Source Sans Pro';
+}
+
+.subheading1 {
+  font-size:1.25rem;
+  padding-top:1.1rem;
+}
+
+.timeline-panel1{
+  margin-left:50rem;
+  padding-bottom:5rem;
+}
+
+
+
 
 
 .see-more{
@@ -11779,7 +11797,7 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #ffc800;
+  background-color: #0d6efd;
 }
 .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
   font-size: 10px;
