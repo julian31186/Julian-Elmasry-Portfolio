@@ -6672,6 +6672,9 @@ textarea.form-control-lg {
 
 
 
+
+
+
 .see-more{
   display:flex;
   flex-direction:column;
@@ -7818,8 +7821,20 @@ textarea.form-control-lg {
 }
 
 .final-button {
-  padding-right:200px;
+  padding-right:8rem;
+  
 }
+
+.easter-egg{
+  padding-right:15px;
+  opacity:0;
+}
+
+.easter-egg:hover{
+  opacity:100%
+}
+
+
 
 .copyright {
   padding-left:150px;
