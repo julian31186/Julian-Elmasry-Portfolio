@@ -6669,9 +6669,8 @@ textarea.form-control-lg {
 }
 
 .more {
-  display:flex;
-  margin-left:28rem;
-  margin-top:5rem;
+  text-align:center;
+  margin-top:40px;
 }
 
 
