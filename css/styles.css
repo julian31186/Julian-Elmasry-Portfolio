@@ -6668,6 +6668,12 @@ textarea.form-control-lg {
   padding-bottom:5rem;
 }
 
+.more {
+  display:flex;
+  margin-left:28rem;
+  margin-top:5rem;
+}
+
 
 
 
